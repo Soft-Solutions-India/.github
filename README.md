@@ -1,0 +1,3 @@
+### About Us
+At Soft Solutions, we dedicate ourselves every day to nurturing strong relationships with our customers and clients. Our team comprises doctors, designers, developers, and marketers, each contributing a unique skill set to our company. We specialize in various domains, including software development, healthcare, dentistry, medical tourism, marketing, and related fields. Our goal is to meet the needs of our customers and clients by delivering high-quality products and services. At Soft Solutions, we take pride in offering the best products and services available, all backed by a full satisfaction guarantee
+
